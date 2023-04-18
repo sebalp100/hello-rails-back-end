@@ -107,6 +107,9 @@ Clone this repository to your desired folder:
 cd my-folder
 git clone https://github.com/sebalp100/hello-world-ror-react
 
+Clone the front-end repo
+git clone https://github.com/sebalp100/hello-react-front-end
+
 ### Usage
 
 To run the project, execute the following commands in your Ruby terminal:
@@ -118,6 +121,8 @@ To run the project, execute the following commands in your Ruby terminal:
 `rails db:migrate` to run the database migrations you created.
 
 `rails s` to run the dev server.
+
+If you want to use the front-end repo, clone it: https://github.com/sebalp100/hello-react-front-end and run `npm install` and `npm start`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
